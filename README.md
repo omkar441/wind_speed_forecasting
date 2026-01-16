@@ -5,7 +5,7 @@ A statistical analysis on inter-state wind-speed data - Tamil Nadu, Andhra Prade
 
 - Hourly, Daily and Weekly wind speed data were extracted
 
-- Augmented Dickey–Fuller test for stationarity check
+- Augmented Dickeyâ€“Fuller test for stationarity check
 
 - Non-Parametric Kolgomorov-Smirnov Test to find best fit distribution to given wind speed data
 
